@@ -1,0 +1,99 @@
+{
+  "header": {
+    "addNewFilm": "ADD NEW FILM",
+    "registration": "REGISTRATION",
+    "login": "Login",
+    "logout": "Logout",
+    "search": "Search for something"
+  },
+  "films": {
+    "description": "DESCRIPTION",
+    "category": "CATEGORY",
+    "country": "COUNTRY",
+    "date": "RELEASE DATE"
+  },
+  "addComment": {
+    "name": "Comment",
+    "submit": "Submit"
+  },
+  "addNewFilm": {
+    "filmPic": "Film picture url",
+    "filmVideo": "Film url",
+    "category": "Category",
+    "action": "Action",
+    "comedy": "Comedy",
+    "drama": "Drama",
+    "fantasy": "Fantasy",
+    "horror": "Horror",
+    "mystery": "Mystery",
+    "romance": "Romance",
+    "thriller": "Thriller",
+    "western": "Western",
+    "country": "In what country film created?",
+    "description": "Description",
+    "title": "Title",
+    "date": "Release date",
+    "submit": "Submit",
+    "required": "Cant be empty",
+    "countryMax": "Must be less then 20",
+    "dateError": "please enter a valid date",
+    "successes": "Film added!",
+    "error": "You have some issue",
+    "filmPlaceHolder": "Film",
+    "filmPicHolder": "Picture"
+  },
+  "login": {
+    "username": "Username",
+    "password": "Password",
+    "submit": "Submit"
+  },
+  "registration": {
+    "labelName": "Name",
+    "labelSurname": "Surname",
+    "labelUsername": "Username",
+    "labelPassword": "Password",
+    "labelRpassword": "Repeat Password",
+    "name": "Your name...",
+    "surname": "Your surname...",
+    "username": "Your username...",
+    "password": "Your password...",
+    "rpassword": "Repeat Password",
+    "nameMin": "Name must be more than 5 length",
+    "nameMax": "Name must be less than 10",
+    "nameRequired": "Name is required",
+    "surnameMin":"Surname must be more than 5 length",
+    "surnameMax": "Surname must be less than 10",
+    "surnameRequired": "Surname is required",
+    "usernameMin": "Username must be more than 5 length",
+    "usernameMax": "Username must be less than 10",
+    "usernameRequired": "Username is required",
+    "passwordMin": "Password must be more than 8 length",
+    "passwordMax": "Password must be more than 12 length",
+    "passwordRequired": "Password is required",
+    "repeatPasswordMax": "Password must be more than 8 length",
+    "repeatPasswordMin": "Password must be more than 12 length",
+    "repeatPasswordRequired": "Password is required",
+    "repeatPasswordOneOf": "Password must match",
+    "successes": "User added!",
+    "error": "You have some issue",
+    "register": "Register"
+  },
+  "updateComment": {
+    "comment": "Comment"
+  },
+  "comment": {
+    "date": "Date",
+    "comment": "Comment"
+  },
+  "selectBar": {
+    "action": "Action",
+    "comedy": "Comedy",
+    "drama": "Drama",
+    "fantasy": "Fantasy",
+    "horror": "Horror",
+    "mystery": "Mystery",
+    "romance": "Romance",
+    "thriller": "Thriller",
+    "western": "Western"
+  }
+}

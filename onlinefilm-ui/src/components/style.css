@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://img.rasset.ie/0013bc7e-1600.jpg");
+    background-position: top;
+    background-size: unset;
+    background-repeat: no-repeat;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.gif {
+    background-image: url("https://gifer.com/UNo5");
+    background-position: center;
+    background-size: unset;
+    background-repeat: no-repeat;
+}
+
+.box {
+    height: 300px;
+}
+
+iframe {
+    height: 100%;
+    width: 100%;
+}

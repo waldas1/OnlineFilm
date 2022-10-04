@@ -1,0 +1,99 @@
+{
+  "header": {
+    "addNewFilm": "PRIDĖTI NAUJĄ FILMĄ",
+    "registration": "REGISTRACIJA",
+    "login": "Prisijungti",
+    "logout": "Atsijungti",
+    "search": "Ieškok kažko"
+  },
+  "films": {
+    "description": "APRAŠYMAS",
+    "category": "KATEGORIJA",
+    "country": "ŠALYS",
+    "date": "IŠLEIDIMO DATA"
+  },
+  "addComment": {
+    "name": "Komentaras",
+    "submit": "Pateikti"
+  },
+  "addNewFilm": {
+    "filmPic": "Filmo nuotraukos url",
+    "filmVideo": "Filmo url",
+    "category": "Kategorija",
+    "action": "Veiksmo",
+    "comedy": "Komedija",
+    "drama": "Drama",
+    "fantasy": "Fantasy",
+    "horror": "Siaubo",
+    "mystery": "Paslapties",
+    "romance": "Romantika",
+    "thriller": "Trileris",
+    "western": "Vakarų",
+    "country": "Kurioje šalyje sukurtas filmas?",
+    "description": "Aprašymas",
+    "title": "Pavadinimas",
+    "date": "Release date",
+    "submit": "Pateikti",
+    "required": "Negali būti tuščias",
+    "countryMax": "Turi būti mažiau nei 20",
+    "dateError": "įveskite galiojančią datą",
+    "successes": "Filmas pridėtas!",
+    "error": "Turite problemų",
+    "filmPlaceHolder": "Filmas",
+    "filmPicHolder": "Paveikslėlis"
+  },
+  "login": {
+    "username": "Vartotojo vardas",
+    "password": "Slaptažodis",
+    "submit": "Pateikti"
+  },
+  "registration": {
+    "labelName": "Vardas",
+    "labelSurname": "Pavardė",
+    "labelUsername": "Vartotojo vardas",
+    "labelPassword": "Slaptažodis",
+    "labelRpassword": "Pakartokite slaptažodį",
+    "name": "Tavo vardas...",
+    "surname": "Jūsų pavardė...",
+    "username": "Jūsų slapyvardis...",
+    "password": "Jūsų slaptažodis...",
+    "rpassword": "Pakartokite slaptažodį",
+    "nameMin": "Vardas turi būti ilgesnis nei 5",
+    "nameMax": "Vardas turi būti mažesnis nei 10",
+    "nameRequired": "Reikalingas vardas",
+    "surnameMin":"Pavardė turi būti ilgesnė nei 5",
+    "surnameMax": "Pavardė turi būti mažesnė nei 10",
+    "surnameRequired": "Būtina pavardė",
+    "usernameMin": "Vartotojo vardas turi būti ilgesnis nei 5",
+    "usernameMax": "Vartotojo vardas turi būti mažesnis nei 10",
+    "usernameRequired": "Reikalingas vartotojo vardas",
+    "passwordMin": "Slaptažodis turi būti ilgesnis nei 8",
+    "passwordMax": "Slaptažodis turi būti mažesnis nei 12",
+    "passwordRequired": "Reikalingas slaptazodis",
+    "repeatPasswordMin": "Slaptažodis turi būti ilgesnis nei 8",
+    "repeatPasswordMax": "Slaptažodis turi būti mažesnis nei 12",
+    "repeatPasswordRequired": "Reikalingas slaptazodis",
+    "repeatPasswordOneOf": "Slaptažodis turi sutapti",
+    "successes": "Vartotojas pridėtas!",
+    "error": "Turite problemų",
+    "register": "Registruotis"
+  },
+  "updateComment": {
+    "comment": "Komentaras"
+  },
+  "comment": {
+    "date": "Data",
+    "comment": "Komentaras"
+  },
+  "selectBar": {
+    "action": "Veiksmo",
+    "comedy": "Komedija",
+    "drama": "Drama",
+    "fantasy": "Fantasy",
+    "horror": "Siaubo",
+    "mystery": "Paslapties",
+    "romance": "Romantika",
+    "thriller": "Trileris",
+    "western": "Vakarų"
+  }
+}
